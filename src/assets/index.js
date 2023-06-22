@@ -33,6 +33,8 @@ import mvc from "./tech/mvc.png";
 import sqlserver from "./tech/sqlserver.png";
 import dynamodb from "./tech/DynamoDB.png";
 
+import gbpicture from "./gbpicture.jpg"
+
 import pcbuilder from "./pcbuilder.png";
 import tournamentwebsite from "./tournamentwebsite.png";
 import discordbot from "./discordbot.png";
@@ -49,6 +51,7 @@ import tripguide from "./tripguide.png";
 
 export {
   logo,
+  gbpicture,
   pcbuilder,
   tournamentwebsite,
   discordbot,

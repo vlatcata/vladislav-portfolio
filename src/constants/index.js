@@ -1,5 +1,6 @@
 import {
     mobile,
+    gbpicture,
     discordbot,
     pcbuilder,
     tournamentwebsite,
@@ -198,7 +199,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a functional website as beautiful as our product, but Vladi proved me wrong.",
+        "I thought it was impossible to make a functional website as beautiful as our product, but Vladi proved me wrong. He developed our desired website in no time and it was perfect! Recommend him!",
       name: "Sara Lee",
       designation: "CFO",
       company: "Acme Co",
@@ -206,15 +207,15 @@ import {
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Vladi does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+        "Vladislav is a talented and dedicated .NET Developer with expertise in AWS and DynamoDB. His strong work ethic, problem-solving skills, and ability to collaborate make him an asset to any development team. Highly recommended!",
+      name: "Georgi Borisov",
+      designation: ".NET Lead",
+      company: "Endava",
+      image: gbpicture,
     },
     {
       testimonial:
-        "After Vladi optimized our website, our traffic increased by 50%. We can't thank him enough!",
+        "After a brief call with Vladislav we managed to undarstand each other and he was able to apply every bit of information we gave him. In return he made the website perfect for our needs. Appreciate it.",
       name: "Lisa Wang",
       designation: "CTO",
       company: "456 Enterprises",
