@@ -1,5 +1,7 @@
 import {
     mobile,
+    bbtournament,
+    pcbuilderlogo,
     gbpicture,
     discordbot,
     pcbuilder,
@@ -123,47 +125,47 @@ import {
     {
       name: "JavaScript",
       icon: javascript,
-    }/* ,
-    {
-      name: "MVC",
-      icon: mvc,
     },
-    {
-      name: "EFC",
-      icon: efc,
-    },
-    {
-      name: "Postman",
-      icon: postman,
-    },
-    {
-      name: "Three JS",
-      icon: threejs,
-    },
-    {
-      name: "HTML",
-      icon: html,
-    },
-    {
-      name: "CSS",
-      icon: css,
-    },
-    {
-      name: "React JS",
-      icon: reactjs,
-    },
-    {
-      name: "Docker",
-      icon: docker,
-    },
-    {
-      name: "Node JS",
-      icon: nodejs,
-    },
-    {
-      name: "Tailwind",
-      icon: tailwind,
-    } */
+    // {
+    //   name: "MVC",
+    //   icon: mvc,
+    // },
+    // {
+    //   name: "EFC",
+    //   icon: efc,
+    // },
+    // {
+    //   name: "Postman",
+    //   icon: postman,
+    // },
+    // {
+    //   name: "Three JS",
+    //   icon: threejs,
+    // },
+    // {
+    //   name: "HTML",
+    //   icon: html,
+    // },
+    // {
+    //   name: "CSS",
+    //   icon: css,
+    // },
+    // {
+    //   name: "React JS",
+    //   icon: reactjs,
+    // },
+    // {
+    //   name: "Docker",
+    //   icon: docker,
+    // },
+    // {
+    //   name: "Node JS",
+    //   icon: nodejs,
+    // },
+    // {
+    //   name: "Tailwind",
+    //   icon: tailwind,
+    // }
   ];
   
   const experiences = [
@@ -242,7 +244,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: pcbuilder,
+      image: pcbuilderlogo,
       source_code_link: "https://github.com/vlatcata/PC-Builder-Website",
     },
     {
@@ -263,7 +265,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tournamentwebsite,
+      image: bbtournament,
       source_code_link: "https://github.com/vlatcata",
     },
     {

@@ -34,6 +34,8 @@ import sqlserver from "./tech/sqlserver.png";
 import dynamodb from "./tech/DynamoDB.png";
 
 import gbpicture from "./gbpicture.jpg"
+import bbtournament from "./bbtournament.jpg"
+import pcbuilderlogo from "./pcbuilder.jpg"
 
 import pcbuilder from "./pcbuilder.png";
 import tournamentwebsite from "./tournamentwebsite.png";
@@ -51,6 +53,8 @@ import tripguide from "./tripguide.png";
 
 export {
   logo,
+  bbtournament,
+  pcbuilderlogo,
   gbpicture,
   pcbuilder,
   tournamentwebsite,
